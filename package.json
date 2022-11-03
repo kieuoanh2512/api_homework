@@ -1,0 +1,14 @@
+{
+  "name": "api-login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd client && npm run build",
+    "install": "cd client && npm install",
+    "start": "node api/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
